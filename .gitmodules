@@ -7,3 +7,6 @@
 [submodule "code-analyzer-models"]
 	path = code-analyzer-models
 	url = https://github.com/BhardwajArjit/static_analyzer.git
+[submodule "frontend-client"]
+	path = frontend-client
+	url = https://github.com/ManishMadan2882/sheildroid-client
