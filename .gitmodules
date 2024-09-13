@@ -1,0 +1,9 @@
+[submodule "cli-tool"]
+	path = cli-tool
+	url = https://github.com/Uttkarsh-raj/SIH-PS-1748.git
+[submodule "vs-code-extension"]
+	path = vs-code-extension
+	url = https://github.com/heyyakash/code-scanner-vs-code-extension.git
+[submodule "code-analyzer-models"]
+	path = code-analyzer-models
+	url = https://github.com/BhardwajArjit/static_analyzer.git
